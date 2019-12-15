@@ -11,6 +11,7 @@ This project is broken into sections:
 - playground (Act as a storage for dummy files etc.)
 - exercises (Taking all we have learnt to build some shell scripts)
 - projects (This real world word search project make use of most features and commands)
+- common_mistakes.sh (Expose common mistakes made and learnt from)
 
 ## Prerequisites
 
